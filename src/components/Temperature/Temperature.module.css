@@ -1,0 +1,27 @@
+.temperature {
+  display: inline-block;
+  padding: 10px;
+  border: 1px solid #ddd;
+  flex-wrap: wrap;
+}
+.average-temp-container {
+  color: rgb(43, 20, 118);
+  display: flex;
+}
+.average-temp {
+  font-size: 100px;
+  margin: 0;
+}
+.celsius-icon {
+  font-size: 40px;
+  margin-block-start: 20px;
+}
+.min-max-container {
+  display: flex;
+  justify-content: space-between;
+}
+.max-temp,
+.min-temp {
+  margin: 0 5px;
+  font-weight: normal;
+}

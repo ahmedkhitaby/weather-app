@@ -1,0 +1,9 @@
+.date-location-container {
+  font-weight: normal;
+  background-color: rgb(43, 20, 118);
+  padding: 20px;
+}
+.date-location-info {
+  margin: 10px 0;
+  color: white;
+}

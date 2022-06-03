@@ -1,0 +1,15 @@
+.search-form {
+  display: flex;
+  justify-content: center;
+  margin: 10px 10px 30px 10px;
+}
+.search-input {
+  border: 1px solid #ddd;
+  padding: 10px 5px;
+  font-size: 25px;
+  width: 100%;
+  color: rgb(43, 20, 118);
+}
+.search-input:focus {
+  outline: 2px solid rgb(43, 20, 118);
+}
